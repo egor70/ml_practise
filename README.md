@@ -33,5 +33,4 @@ content-aware-recsys/
 │   ├── nowplaying_rs_dataset/          # 🎵 Датасет nowplaying-RS (Zenodo)
 │   └── VK-LSVD/                        # 🎬 Датасет мультимодальных эмбеддингов VK
 ├── four_signals_analysis_FINAL.ipynb   # 📓 Основной рабочий ноутбук с экспериментами
-├── requirements.txt                    # 📦 Список зависимостей
 └── README.md
